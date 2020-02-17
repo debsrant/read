@@ -1,0 +1,9 @@
+# Accessibility Guidelines
+
+## Images
+### Alt tags
+
+Use alt tags on all images except those for decoration. Consider using css background to display those images.
+Use empty alt tags as opposed to no alt tag.
+
+(https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML)
